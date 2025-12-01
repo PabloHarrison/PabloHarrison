@@ -1,16 +1,23 @@
-## Hi there 👋
+## Perfil (Pablo Harrison)
 
-<!--
-**PabloHarrison/PabloHarrison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Análise e Desenvolvimento de Sistemas. Atualmente estudando Java, OOP, Spring Boot e reforçando fundamentos essenciais.
 
-Here are some ideas to get you started:
+## Objetivo Profissional
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Formar uma carreira como desenvolvedor Backend. No longo prazo, me aprofundar em Inteligência Artificial conforme experiência e a demanda do mercado.
+
+## Roadmap Pessoal
+
+- Fundamentos
+- Java + OOP
+- Estrutura de dados
+- Spring Boot
+- Banco de Dados
+- API REST
+- Testes
+- Projetos práticos
+- Estágio / Backend júnior
+
+## Contatos
+
+- Email: pabloh4rr1sun@gmail.com
